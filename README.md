@@ -17,4 +17,6 @@ Et bien sur si cela ne va pas il y a un reboot du Raspberry Pi par une connexion
 Pour l'utilisation il faut entrèe les host, login et mots de passe pour La connexion à la base de données, le mail et le SSH.
 
 Pour les retours raspberrypi.gard@gmail.com.
+Retrouver le bolg ici http://rasp-pi.fr.nf
+
 
